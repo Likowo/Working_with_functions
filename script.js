@@ -82,3 +82,42 @@ const showLocations = () => {
 const showPrices = () => {
     console.log(prices)
 }
+
+
+//=================================
+
+const menu2 = {
+    breakfast : {
+        toast: {
+            price: "$2",
+            quantity: 1
+        },
+        eggs:{
+            price: "$3",
+            quantity: 1
+        },
+        bacon: {
+            price :"$1",
+            quantity : 1
+        },
+        milk : {
+            price : "$4",
+            quantity : "1 bottle"
+        }
+    },
+
+}
+
+const displayFoodPage = () => {
+    
+}
+
+
+
+
+//const prices = ["$2","$3","$1","$4"]
+
+//  lunch: ["burger","salad","fries"],
+//     dinner:["noddle soup","steak","mash potatoes and gravy"],
+//     drinks: ["tea","milk","water","soda"]
+

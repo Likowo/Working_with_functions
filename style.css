@@ -24,3 +24,15 @@ button{
     justify-content:space-between;
 }
 
+/*   Temp  */
+
+.tempDiv{
+    border: 2px solid yellow;
+    margin:10px;
+}
+
+.top{
+    display:flex;
+    justify-content:space-between;
+}
+
